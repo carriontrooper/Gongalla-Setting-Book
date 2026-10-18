@@ -13,6 +13,7 @@ And then there are the deities...
   - Eternal Children
   - Time-Displaced
   - Eternals
+- Clowns
 - Goblins
 - Orcs
 - Mekanarods/Machine Men
