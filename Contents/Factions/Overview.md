@@ -22,6 +22,7 @@ As such, here are some notable factions you can use in your games. Not to mentio
 - Bounty Hunters Guild
 - Singularity Cult
 - Jabberwock Group
+- Various Bandit groups
 
 **Post-Singularity era**
 - tbd
