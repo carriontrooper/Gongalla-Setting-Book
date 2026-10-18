@@ -15,33 +15,59 @@ But if one is intrepid enough (or unlucky enough), they can find themselves outs
 
 **Central:**
 - *Prison era*:
-  - Ossuary
+  - Isocube Fort
+  - Crypt
 - *Frontier era*:
-  - Ossuary
+  - Isocube Fort
+  - Crypt
+  - Kyo-Edo
 - *Post-Singularity era*:
   - placename
  
 **North:**
 - *Prison era*:
-  - placename
+  - Pinewatch
+  - Blackslate
+  - Dolmen
+  - Crystal Forest
+  - Pale Yonder
 - *Frontier era*:
-  - placename
+  - Pinewatch
+  - Blackslate
+  - Dolmen
+  - Crystal Forest
+  - Pale Yonder
 - *Post-Singularity era*:
   - placename
  
 **East:**
 - *Prison era*:
-  - placename
+  - Canopy
+  - Circle of Fire
+  - Freeport
 - *Frontier era*:
-  - placename
+  - Canopy
+  - Circle of Fire
+  - Freeport
+  - Viridis
+  - Hexbourne
+  - Nekojima
+  - Thermopolis
 - *Post-Singularity era*:
   - placename
  
 **South:**
 - *Prison era*:
   - Goblinton
+  - Ossuary
+  - Crack
+  - Wreck
 - *Frontier era*:
   - Goblinton
+  - Ossuary
+  - Crack
+  - Wreck
+  - Far Avalon
 - *Post-Singularity era*:
   - placename
  
@@ -49,6 +75,7 @@ But if one is intrepid enough (or unlucky enough), they can find themselves outs
 - *Prison era*:
   - placename
 - *Frontier era*:
-  - placename
+  - Trenchtown
+  - Fort Neugrad
 - *Post-Singularity era*:
   - placename
