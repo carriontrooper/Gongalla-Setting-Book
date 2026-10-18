@@ -10,13 +10,13 @@ And then there are the deities...
 
 **Sapients:**
 - Humans
- - Eternal Children
- - Time-Displaced
- - Eternals
+  - Eternal Children
+  - Time-Displaced
+  - Eternals
 - Goblins
 - Orcs
 - Mekanarods/Machine Men
- - Imperial Robots
+  - Imperial Robots
 - Hivers
 - Yokai/Boogeymen
 - Devils/Demons
