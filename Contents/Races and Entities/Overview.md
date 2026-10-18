@@ -22,6 +22,7 @@ And then there are the deities...
 - Devils/Demons
 - Beastheads/Aesops
 - Beyonders/Nowhere-Spawn
+- Kobolds
 
 **Beasts:**
 - Raptors/Murderchicken
