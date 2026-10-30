@@ -6,7 +6,7 @@ As such, here are some notable factions you can use in your games. Not to mentio
 
 **Table of Contents**
 
-**Prison era**
+**Prison era:**
 - Wardens
 - Black Badges
 - Church of the Eternal End
@@ -16,7 +16,7 @@ As such, here are some notable factions you can use in your games. Not to mentio
 - Various Anarchist/Revolutionary/Rebel/Resistance groups
 - Pyrovore Cult
 
-**Frontier era**
+**Frontier era:**
 - Church of the Eternal End, and its splinters
 - Lawmen
 - Bounty Hunters Guild
@@ -26,5 +26,5 @@ As such, here are some notable factions you can use in your games. Not to mentio
 - Eastern Syndicate
 - Various Bandit groups
 
-**Post-Singularity era**
+**Post-Singularity era:**
 - tbd
