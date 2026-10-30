@@ -17,11 +17,13 @@ As such, here are some notable factions you can use in your games. Not to mentio
 - Pyrovore Cult
 
 **Frontier era**
-- Church of the Eternal End splinters
+- Church of the Eternal End, and its splinters
 - Lawmen
 - Bounty Hunters Guild
+- GobCorp
 - Singularity Cult
 - Jabberwock Group
+- Eastern Syndicate
 - Various Bandit groups
 
 **Post-Singularity era**
